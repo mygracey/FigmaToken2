@@ -1,0 +1,18 @@
+{
+  "global": {
+    "conta": {
+      "value": "#c71515",
+      "type": "color",
+      "description": "Container background color"
+    },
+    "container": {
+      "value": "#d91717",
+      "type": "color"
+    },
+    "box": {
+      "value": "5px",
+      "type": "borderRadius",
+      "description": "bordr radius for all the boxes"
+    }
+  }
+}
